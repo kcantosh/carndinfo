@@ -37,6 +37,9 @@ Created a vehicle detection and tracking pipeline with OpenCV, histogram of orie
 
 Built and trained a convolutional neural network for end-to-end driving in a simulator, using TensorFlow and Keras. Used optimization techniques such as regularization and drop out to generalize the network for driving on multiple tracks. [Project Detail](https://github.com/Vasuji/CarND-Behavioral-Cloning)
 
+<img src = "https://d17h27t6h515a5.cloudfront.net/topher/2017/February/58b099c9_sim-image/sim-image.png" width="350" height="300" />
+
+
 --------------------------------------
 
 
