@@ -38,6 +38,11 @@
 
 ![video](https://youtu.be/FMNJPX_sszU)
 
+
+<a href="https://youtu.be/FMNJPX_sszU" target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/FMNJPX_sszU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
 --------------------------------------
 
 ***Project 6.*** [Localization](https://github.com/Vasuji/CarND-Kidnapped-Vehicle-Project): Implemented a 2-dimensional localization algorithm with Markove filter and particle filter in C++ capable of localizing a vehicle within desired accuracy and time. [Project Detail](https://github.com/Vasuji/CarND-Kidnapped-Vehicle-Project)
