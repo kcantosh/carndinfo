@@ -43,7 +43,7 @@
 
 ***Project 6.*** [Localization](https://github.com/Vasuji/CarND-Kidnapped-Vehicle-Project): Implemented a 2-dimensional localization algorithm with Markove filter and particle filter in C++ capable of localizing a vehicle within desired accuracy and time. [Project Detail](https://github.com/Vasuji/CarND-Kidnapped-Vehicle-Project)
 
-<img src = "https://github.com/Vasuji/Self-Driving-Car-Projects/blob/master/pic/loc2.png?raw=true" width="300" height="500" />
+<img src = "https://github.com/Vasuji/Self-Driving-Car-Projects/blob/master/pic/loc2.png?raw=true" width="400" height="300" />
 
 
 
