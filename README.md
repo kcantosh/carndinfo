@@ -1,7 +1,8 @@
 # Self Driving Car Project 
  
+ <img src = "https://avatars2.githubusercontent.com/u/7819087?v=4&s=460" width="150" height="150" />
  
-### By Dibakar Sigdel, Ph.D. Physics
+ **Sigdel D.(Ph.D. Physics)
 
 
 ***Project 1.*** [Advanced Lane Line Detection Pipeline](https://github.com/Vasuji/CarND-Advanced-Lane-Lines): Built an advanced lane-finding algorithm using OpenCV for Hough Transforms and Canny edge detection, distortion correction, image rectification, color transforms, and gradient thresholding. Identified lane curvature and vehicle displacement. Detected highway lane lines on a video stream. Overcame environmental challenges such as shadows and pavement changes. [Project Detail](https://github.com/Vasuji/CarND-Advanced-Lane-Lines)
