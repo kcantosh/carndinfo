@@ -16,7 +16,7 @@ Built an advanced lane-finding algorithm using OpenCV for Hough Transforms and C
   
 --------------------------------------
 
-***Project 2.*** [*** Vehicle Detection Pipeline*** ](https://github.com/Vasuji/CarND-Vehicle-Detection): 
+***Project 2.*** [***Vehicle Detection Pipeline*** ](https://github.com/Vasuji/CarND-Vehicle-Detection): 
 
 Created a vehicle detection and tracking pipeline with OpenCV, histogram of oriented gradients (HOG), and support vector machines (SVM). Optimized and evaluated the model on video data from an automotive camera taken during highway driving. [Project Detail](https://github.com/Vasuji/CarND-Vehicle-Detection)
 
