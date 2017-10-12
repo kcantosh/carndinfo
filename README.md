@@ -16,7 +16,7 @@
 
 ***Project 2.*** [Vehicle Detection Pipeline](https://github.com/Vasuji/CarND-Vehicle-Detection): Created a vehicle detection and tracking pipeline with OpenCV, histogram of oriented gradients (HOG), and support vector machines (SVM). Optimized and evaluated the model on video data from an automotive camera taken during highway driving. [Project Detail](https://github.com/Vasuji/CarND-Vehicle-Detection)
 
-<img src = "https://github.com/Vasuji/CarND-Vehicle-Detection/raw/master/examples/heatmap.jpg" width="600" height="300" />
+<img src = "https://github.com/Vasuji/CarND-Vehicle-Detection/raw/master/examples/heatmap.jpg" width="800" height="250" />
 
 
 --------------------------------------
