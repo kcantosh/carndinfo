@@ -13,8 +13,14 @@
 
 3. [Traffic Sign Classifier](https://github.com/Vasuji/CarND-traffic-sign-classifier): Built and trained a deep neural network to classify traffic signs, using TensorFlow. Experimented with different network architectures. Performed image pre-processing and validation to guard against overfitting. [Project Detail](https://github.com/Vasuji/CarND-traffic-sign-classifier)
 
+<img src = "https://github.com/Vasuji/carnd-project2/raw/master/pics/result.png?raw=true" width="350" height="200" />
+
+
 4. [Behavioral Cloning](https://github.com/Vasuji/CarND-Behavioral-Cloning): Built and trained a convolutional neural network for end-to-end driving in a simulator, using TensorFlow and Keras. Used optimization techniques such as regularization and drop out to generalize the network for driving on multiple tracks. [Project Detail](https://github.com/Vasuji/CarND-Behavioral-Cloning)
 
+<img src = "https://www.youtube.com/watch?v=kcX7hf4hro0" width="350" height="200" />
+
 5. [Sensor Fusion](https://github.com/Vasuji/CarND-Unscented-Kalman-Filter-Project): Implemented sensor fusion technique in C++ with an Extended Kalman Filter algorithm capable of tracking a pedestrian's motion in two dimensions and an Unscented Kalman Filter algorithm capable of accurately and performantly tracking a turning object. [Project Detail](https://github.com/Vasuji/CarND-Unscented-Kalman-Filter-Project)
+
 
 6. [Localization](https://github.com/Vasuji/CarND-Kidnapped-Vehicle-Project): Implemented a 2-dimensional localization algorithm with Markove filter and particle filter in C++ capable of localizing a vehicle within desired accuracy and time. [Project Detail](https://github.com/Vasuji/CarND-Kidnapped-Vehicle-Project)
