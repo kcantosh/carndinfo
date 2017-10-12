@@ -36,10 +36,8 @@
 
 ***Project 5.*** [Sensor Fusion](https://github.com/Vasuji/CarND-Unscented-Kalman-Filter-Project): Implemented sensor fusion technique in C++ with an Extended Kalman Filter algorithm capable of tracking a pedestrian's motion in two dimensions and an Unscented Kalman Filter algorithm capable of accurately and performantly tracking a turning object. [Project Detail](https://github.com/Vasuji/CarND-Unscented-Kalman-Filter-Project)
 
-![video](https://youtu.be/FMNJPX_sszU)
 
-
-<a href="https://youtu.be/FMNJPX_sszU" target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/FMNJPX_sszU/0.jpg" 
+<a href="https://youtu.be/FMNJPX_sszU" target="_blank"><img src="http://img.youtu.be/FMNJPX_sszU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
