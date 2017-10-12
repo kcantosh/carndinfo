@@ -2,7 +2,7 @@
 
 ### Project List
 
-1. Built an advanced lane-finding algorithm using OpenCV for Hough Transforms and Canny edge detection, distortion correction, image rectification, color transforms, and gradient thresholding. Identified lane curvature and vehicle displacement. Detected highway lane lines on a video stream. Overcame environmental challenges such as shadows and pavement changes.
+1. [Advanced Lane Line Detection Pipeline](https://github.com/Vasuji/CarND-Advanced-Lane-Lines): Built an advanced lane-finding algorithm using OpenCV for Hough Transforms and Canny edge detection, distortion correction, image rectification, color transforms, and gradient thresholding. Identified lane curvature and vehicle displacement. Detected highway lane lines on a video stream. Overcame environmental challenges such as shadows and pavement changes.
 
 2. Created a vehicle detection and tracking pipeline with OpenCV, histogram of oriented gradients (HOG), and support vector machines (SVM). Optimized and evaluated the model on video data from an automotive camera taken during highway driving.
 
