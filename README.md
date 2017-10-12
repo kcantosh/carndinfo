@@ -4,11 +4,12 @@
 
 1. [Advanced Lane Line Detection Pipeline](https://github.com/Vasuji/CarND-Advanced-Lane-Lines): Built an advanced lane-finding algorithm using OpenCV for Hough Transforms and Canny edge detection, distortion correction, image rectification, color transforms, and gradient thresholding. Identified lane curvature and vehicle displacement. Detected highway lane lines on a video stream. Overcame environmental challenges such as shadows and pavement changes. [Project Detail](https://github.com/Vasuji/CarND-Advanced-Lane-Lines)
 
-     ![alt txt](https://github.com/Vasuji/CarND-Advanced-Lane-Lines/raw/master/pic/plot-lane.png)
+     <img src = "https://github.com/Vasuji/CarND-Advanced-Lane-Lines/raw/master/pic/plot-lane.png" width="350" height="200" />
 
 2. [Vehicle Detection Pipeline](https://github.com/Vasuji/CarND-Vehicle-Detection): Created a vehicle detection and tracking pipeline with OpenCV, histogram of oriented gradients (HOG), and support vector machines (SVM). Optimized and evaluated the model on video data from an automotive camera taken during highway driving. [Project Detail](https://github.com/Vasuji/CarND-Vehicle-Detection)
 
-   ![img2](https://github.com/Vasuji/CarND-Vehicle-Detection/raw/master/examples/heatmap.jpg)
+<img src = "https://github.com/Vasuji/CarND-Vehicle-Detection/raw/master/examples/heatmap.jpg" width="350" height="200" />
+
 
 3. [Traffic Sign Classifier](https://github.com/Vasuji/CarND-traffic-sign-classifier): Built and trained a deep neural network to classify traffic signs, using TensorFlow. Experimented with different network architectures. Performed image pre-processing and validation to guard against overfitting. [Project Detail](https://github.com/Vasuji/CarND-traffic-sign-classifier)
 
