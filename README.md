@@ -8,7 +8,7 @@
 
 2. [Vehicle Detection Pipeline](https://github.com/Vasuji/CarND-Vehicle-Detection): Created a vehicle detection and tracking pipeline with OpenCV, histogram of oriented gradients (HOG), and support vector machines (SVM). Optimized and evaluated the model on video data from an automotive camera taken during highway driving. [Project Detail](https://github.com/Vasuji/CarND-Vehicle-Detection)
 
-<img src = "https://github.com/Vasuji/CarND-Vehicle-Detection/raw/master/examples/heatmap.jpg" width="600" height="200" />
+<img src = "https://github.com/Vasuji/CarND-Vehicle-Detection/raw/master/examples/heatmap.jpg" width="600" height="300" />
 
 
 3. [Traffic Sign Classifier](https://github.com/Vasuji/CarND-traffic-sign-classifier): Built and trained a deep neural network to classify traffic signs, using TensorFlow. Experimented with different network architectures. Performed image pre-processing and validation to guard against overfitting. [Project Detail](https://github.com/Vasuji/CarND-traffic-sign-classifier)
