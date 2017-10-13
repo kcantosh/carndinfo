@@ -62,4 +62,21 @@ Implemented a 2-dimensional localization algorithm with Markove filter and parti
 
 
 --------------------------------------
+***Project 7.*** [***Model Predictive Control***](https://github.com/Vasuji/CarND-MPC-Project):
+
+Implemented Model Predictive Control to drive a vehicle around a track even with additional latency between commands.
+
+<img src = "https://github.com/Vasuji/Self-Driving-Car-Projects/blob/master/pic/mpc.png?raw=true" width="400" height="300" />
+
+
+--------------------------------------
+
+
+***Project 8.*** [***PID Control***](https://github.com/Vasuji/CarND-PID-Control-Project):
+
+Implemented a PID controller in C++ to maneuver a vehicle around a track.
+
+<img src = "https://github.com/Vasuji/Self-Driving-Car-Projects/blob/master/pic/pid.png?raw=true" width="400" height="300" />
+
+--------------------------------------
 
