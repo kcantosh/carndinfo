@@ -25,7 +25,9 @@ Created a vehicle detection and tracking pipeline with OpenCV, histogram of orie
 
 --------------------------------------
 
-***Project 3.*** [Traffic Sign Classifier](https://github.com/Vasuji/CarND-traffic-sign-classifier): Built and trained a deep neural network to classify traffic signs, using TensorFlow. Experimented with different network architectures. Performed image pre-processing and validation to guard against overfitting. [Project Detail](https://github.com/Vasuji/CarND-traffic-sign-classifier)
+***Project 3.*** [***Traffic Sign Classifier***](https://github.com/Vasuji/CarND-traffic-sign-classifier):
+
+Built and trained a deep neural network to classify traffic signs, using TensorFlow. Experimented with different network architectures. Performed image pre-processing and validation to guard against overfitting. [Project Detail](https://github.com/Vasuji/CarND-traffic-sign-classifier)
 
 <img src = "https://github.com/Vasuji/carnd-project2/raw/master/pics/result.png?raw=true" width="350" height="300" />
 
