@@ -1,21 +1,25 @@
 
+<div align="center">
+   <img src = "https://avatars2.githubusercontent.com/u/7819087?v=4&s=460" width="150" height="150" /><br>
+   Sigdel D.(Ph.D. Physics)<br>
+</div>
+<br>
 
-
- --------------------------------------
- <img src = "https://avatars2.githubusercontent.com/u/7819087?v=4&s=460" width="150" height="150" />
+**Find Me at:** 
+| [Linkedin](https://www.linkedin.com/in/sigdeld/)| [Github](https://github.com/Vasuji) |[Twitter](https://twitter.com/SigdelPhx) | [Udacity](https://profiles.udacity.com/p/4433825584) |
  
- **Sigdel D.(Ph.D. Physics)**
  
  I am a Physicist. Currently, my interests are in Data Science, Machine Learning and Artificial Intelligence. I have two parallel thoughts for model building perspective: simulation of a mathematical model and optimization of the proposed model over a large data set. I think more in first perspective 'simulation of a mathematical model' when we are familiar with dynamics of the system under study and explore more in that part where analytical solution does not exist. Here we technically go from model to data generation. The second part 'optimization of the proposed model' comes with machine learning which goes from data to model building (opposite to the first one). Proper feature engineering and tuning of the model parameters are the most important part of the optimization.
  
- [Find my Artificial Intelligence projects here](https://vasuji.github.io/Artificial-Intelligence-Projects/)
- <br />
- [Find me in Linkedin](https://www.linkedin.com/in/sigdeld/)
- <br />
- [Find me in Github](https://github.com/Vasuji)
  
+**Find My projects on:** 
+|[Artificial Intelligence](https://vasuji.github.io/Artificial-Intelligence-Projects/)|[Self Driving Car](https://vasuji.github.io/Self-Driving-Car-Projects/) |[Machine Learning](https://vasuji.github.io/Machine-Learning-Projects/)|[Deep Learning](https://vasuji.github.io/Machine-Learning-Projects/)|
+
+
+
+ ---------------------------------
  
---------------------------------------
+### Self Driving Car Projects
 
 ***Project 1.*** [***Advanced Lane Line Detection Pipeline***](https://github.com/Vasuji/CarND-Advanced-Lane-Lines): 
 
