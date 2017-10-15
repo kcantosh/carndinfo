@@ -15,7 +15,10 @@
 **Find my projects on:** 
 |[Artificial Intelligence](https://vasuji.github.io/aip/)|[Self Driving Car](https://vasuji.github.io/carp/) |[Machine Learning](https://vasuji.github.io/mlp/)|[Deep Learning](https://vasuji.github.io/mlp/)|
 
+**Find my research:**
+|[Quantum Field Theory](https://consciox.github.io/qft/)|[Consciousness](https://consciox.github.io/)|
 
+**Teaching**: [Learning Steps for Machine Learning Aspirants](https://consciox.github.io/learning/)
 
  ---------------------------------
  
