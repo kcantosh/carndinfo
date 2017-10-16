@@ -20,8 +20,6 @@
 
 **Teaching:** | [Machine Learning for Aspirants](https://consciox.github.io/learning/) | [Computational Physics](https://consciox.github.io/smech/) | [Advanced Algorithms](https://consciox.github.io/learning/)| 
 
-------------------------------
-
  
 ### Self Driving Car Projects
 
