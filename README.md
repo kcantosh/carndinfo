@@ -18,7 +18,7 @@
 **Find my research:** | [Quantum Field Theory](https://consciox.github.io/qft/)| [Nature Inspired Computing](https://consciox.github.io/nic/)|
 
 
-**Teaching:** | [Machine Learning for Aspirants](https://consciox.github.io/learning/) | [Computational Physics](https://consciox.github.io/smech/) | [Advanced Algorithms](https://consciox.github.io/learning/)| 
+**Teaching:** | [Machine Learning for Aspirants](https://consciox.github.io/learning/) | [Computational Physics](https://consciox.github.io/smech/) | [Algorithms](https://consciox.github.io/algorithm/)| 
 
  
 ### Self Driving Car Projects
